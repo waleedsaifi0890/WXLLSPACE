@@ -57,7 +57,12 @@ Users can register to access the platform's real-time mapping markers, designed 
  <img alt="GitPoint" title="GitPoint" src="https://ph-files.imgix.net/e1d29969-c8b3-4ae2-a388-6e2168a8a72c.png?auto=format&fit=crop" width="350px" >
 
 
+## Calculation board
 
+Allowing the parties to make detailed analysis for the feasibility of the deal.
+
+
+<img alt="GitPoint" title="GitPoint" src="https://imgur.com/RLTvDH4.png" width="350px" >
 
 
 ## Contact
