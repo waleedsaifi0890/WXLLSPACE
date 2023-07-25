@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://imgur.com/a/6uWuotr" >
+    <img alt="GitPoint" title="GitPoint" src="https://imgur.com/53o14yx" >
   </a>
 </p>
 
