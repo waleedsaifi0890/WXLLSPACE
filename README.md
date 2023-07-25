@@ -58,7 +58,7 @@ Precise video segmentation for enhanced visual analysis and editing.
 
 Effortlessly add annotations to your content for clear communication and feedback
 
- <img alt="GitPoint" title="GitPoint" src="[https://i.imgur.com/oz1tyKh.pn](https://ph-files.imgix.net/e1d29969-c8b3-4ae2-a388-6e2168a8a72c.png?auto=format&fit=crop)g" width="350px" >
+ <img alt="GitPoint" title="GitPoint" src="https://ph-files.imgix.net/e1d29969-c8b3-4ae2-a388-6e2168a8a72c.png?auto=format&fit=crop" width="350px" >
 
 
 ## Filtration
