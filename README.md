@@ -50,7 +50,7 @@ Wxllspace is a website that facilitates a unique collaboration between real esta
 
 Precise video segmentation for enhanced visual analysis and editing.
 
- <img alt="GitPoint" title="GitPoint" src="https://imgur.com/a/T7e2fJY" width="350px" >
+ <img alt="GitPoint" title="GitPoint" src="https://imgur.com/bpOtIjk" width="350px" >
 
 
 
