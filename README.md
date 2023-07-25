@@ -12,7 +12,6 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Build Process](#build-process)
 - [Contact](#contact)
 
 
