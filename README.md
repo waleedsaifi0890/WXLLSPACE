@@ -48,7 +48,7 @@ Wxllspace is a website that facilitates a unique collaboration between real esta
 
 ## Artist/Client Registration.
 
-Precise video segmentation for enhanced visual analysis and editing.
+Discover a vibrant platform that fosters artistic connections and client collaborations. Artists and clients alike can easily register and unlock a realm of boundless creativity.
 
  <img alt="GitPoint" title="GitPoint" src="https://imgur.com/bpOtIjk.png" width="350px" >
 
@@ -56,22 +56,11 @@ Precise video segmentation for enhanced visual analysis and editing.
 
 ## Real Time Map Marking
 
-Effortlessly add annotations to your content for clear communication and feedback
+Users can register to access the platform's real-time mapping markers, designed to elevate efficiency and productivity with ease
 
  <img alt="GitPoint" title="GitPoint" src="https://ph-files.imgix.net/e1d29969-c8b3-4ae2-a388-6e2168a8a72c.png?auto=format&fit=crop" width="350px" >
 
 
-## Filtration
-
-Full control of your video's visual aesthetics by fine-tuning colors with our comprehensive filtration options, including adjustments for hue, saturation, contrast, and more,
-
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
-
-
-## Voice Overs
-Seamlessly integrate professional voice-overs to elevate your storytelling.
-
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
 
