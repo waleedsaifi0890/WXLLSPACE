@@ -60,7 +60,6 @@ Users can register to access the platform's real-time mapping markers, designed 
 
 
 
-
 ## Contact
 
 If you have any questions or feedback regarding this project, feel free to reach out to me:
