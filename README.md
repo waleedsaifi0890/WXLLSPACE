@@ -35,14 +35,15 @@ This repo holds the website for https://explore.wxllspace.com. The website is bu
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap)](https://getbootstrap.com/)
 [![Discord](https://img.shields.io/badge/Discord-purple?logo=discord)](https://discord.com/)
 [![Google Analytics](https://img.shields.io/badge/Google%20Analytics-blue?logo=google-analytics)](https://analytics.google.com/)
+
 Wxllspace is a website that facilitates a unique collaboration between real estate operators and talented mural artists worldwide. By uniting developers and creatives, they embark on commissioned public art projects that bring captivating transformations to various real estate spaces.
 
 ## Features
 
 - Registration as an Artist/Client.
-- real time Map marking.
-- 
-- Voice Overs
+- Real Time Map marking.
+-  
+-
 
 
 ## Video Segmentation
