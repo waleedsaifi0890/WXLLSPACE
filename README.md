@@ -41,10 +41,7 @@ Wxllspace is a website that facilitates a unique collaboration between real esta
 ## Features
 
 - Registration as an Artist/Client.
-- Real Time Map marking.
--  
--
-
+- Real Time Map marking. 
 
 ## Artist/Client Registration.
 
