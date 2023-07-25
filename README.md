@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://imgur.com/53o14yx" >
+    <img alt="GitPoint" title="GitPoint" src="https://media.licdn.com/dms/image/C4D0BAQGL9jTdFlKHoQ/company-logo_200_200/0/1601399945227?e=2147483647&v=beta&t=lO1KqQ3fT4yYkyXJUZlc-KbEMBozRtoizpmh9hN4JQ0" >
   </a>
 </p>
 
@@ -57,17 +57,20 @@ Precise video segmentation for enhanced visual analysis and editing.
 ## Annotations
 
 Effortlessly add annotations to your content for clear communication and feedback
+
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
 ## Filtration
 
 Full control of your video's visual aesthetics by fine-tuning colors with our comprehensive filtration options, including adjustments for hue, saturation, contrast, and more,
+
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
 ## Voice Overs
 Seamlessly integrate professional voice-overs to elevate your storytelling.
+
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
