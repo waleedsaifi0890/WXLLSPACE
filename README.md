@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://gitpoint.co/">
+  <a href="">
     <img alt="GitPoint" title="GitPoint" src="https://media.licdn.com/dms/image/C4D0BAQGL9jTdFlKHoQ/company-logo_200_200/0/1601399945227?e=2147483647&v=beta&t=lO1KqQ3fT4yYkyXJUZlc-KbEMBozRtoizpmh9hN4JQ0" >
   </a>
 </p>
